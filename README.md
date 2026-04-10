@@ -18,16 +18,12 @@ Computer Engineering student at **New York University** with experience in softw
 
 A mobile app designed to support Alzheimer's patients and their caregivers — currently in active development. Looking to connect with developers and designers interested in health-tech and accessibility.
 
-### 🤖 Robotics @ Brandeis
-
-Hardware prototyping and embedded systems projects involving 3D printing, sensor integration, and autonomous control.
 
 ## About Me
 
 - 🎓 Studying Computer Engineering at NYU (transferred from Brandeis University)
-- 💼 Former intern at **Accenture** (data analysis, SAP/Workday) and **Microsoft** (CSS, Copilot/M365)
 - 🎯 Interested in Software Engineering, Data Science/AI, and Quantitative Finance
-- 🎻 14 years of cello | Gold Prize, 2022 European Summer Music Competition
+- 🎻 14 years of cello & soccer
 
 ## Let's Connect
 
