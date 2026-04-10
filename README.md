@@ -1,20 +1,35 @@
-## Hi there 👋
+# Hi, I'm Zhanru Li (Macqueen) 👋
 
-- 🔭 I’m currently learning Computer Science and Applied Mathematics at Brandeis University.
-- 👯 I’m looking for persons to collaborate on an app developing project related to Alzheimer patient caring.
-- 📫 **How to reach me**: *macqueen330@gmail.com*
+Computer Engineering student at **New York University** with experience in software development, data analysis, and hardware prototyping. Passionate about building meaningful products at the intersection of technology and real-world impact.
 
-<!--
-**macqueen330/macqueen330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/-Autodesk%20Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🧠 [AlzSpace](https://github.com/macqueen330)
+
+A mobile app designed to support Alzheimer's patients and their caregivers — currently in active development. Looking to connect with developers and designers interested in health-tech and accessibility.
+
+### 🤖 Robotics @ Brandeis
+
+Hardware prototyping and embedded systems projects involving 3D printing, sensor integration, and autonomous control.
+
+## About Me
+
+- 🎓 Studying Computer Engineering at NYU (transferred from Brandeis University)
+- 💼 Former intern at **Accenture** (data analysis, SAP/Workday) and **Microsoft** (CSS, Copilot/M365)
+- 🎯 Interested in Software Engineering, Data Science/AI, and Quantitative Finance
+- 🎻 14 years of cello | Gold Prize, 2022 European Summer Music Competition
+
+## Let's Connect
+
+[![Email](https://img.shields.io/badge/-macqueen330@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:macqueen330@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhanruli/)
